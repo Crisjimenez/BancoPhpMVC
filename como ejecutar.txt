@@ -1,0 +1,8 @@
+1. importar la base de datos del archivo "base de datos.sql", ya que se agregaron dos columnas a la tabla clientes
+2. hay dos usuarios en el sistema:
+1 	* usuario: ana
+	* contraseña: 123
+	*rol administrador
+2	* usuario: jarry
+	* contraseña: 123
+	*rol: cliente
